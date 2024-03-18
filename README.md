@@ -1,0 +1,1 @@
+House Finder is developed using PHP, CSS, bootstrap, and JavaScript. Talking about the project, it contains an admin side from where a user can manage the house, tenants, payments, and much more. In this project, the user has to perform all the main functions from the Admin side.
